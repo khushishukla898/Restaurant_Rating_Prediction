@@ -1,0 +1,79 @@
+15096-INFO-2022-09-29 18:15:29,602-Program has been started
+15096-INFO-2022-09-29 18:16:07,709-Entered Value of Restaurant Name is Jalsa
+15096-INFO-2022-09-29 18:16:07,709-Entered Value of Votes is 775
+15096-INFO-2022-09-29 18:16:07,709-Entered Value of Restaurant Type is Buffet
+15096-INFO-2022-09-29 18:16:07,709-Entered Value of Location is Banashankari
+15096-INFO-2022-09-29 18:16:07,710-Entered Value of Cost is 800
+15096-INFO-2022-09-29 18:16:07,710-Entered Value of Cuisines is  North Indian, Mughlai, Chinese
+15096-INFO-2022-09-29 18:16:07,710-Entered Value of Online Order is 1
+15096-INFO-2022-09-29 18:16:07,710-Entered Value of Book Table is 1
+15096-INFO-2022-09-29 18:16:07,710-Values Heading For Encoding
+15096-INFO-2022-09-29 18:16:09,254-Model Recieved The values
+15096-INFO-2022-09-29 18:16:09,853-Model Predicted the Rating Value :4.100833333333342
+15096-INFO-2022-09-29 18:16:10,021-Entered Value of Restaurant Name is Jalsa
+15096-INFO-2022-09-29 18:16:10,021-Entered Value of Votes is 775
+15096-INFO-2022-09-29 18:16:10,021-Entered Value of Restaurant Type is Buffet
+15096-INFO-2022-09-29 18:16:10,022-Entered Value of Location is Banashankari
+15096-INFO-2022-09-29 18:16:10,022-Entered Value of Cost is 800
+15096-INFO-2022-09-29 18:16:10,022-Entered Value of Cuisines is  North Indian, Mughlai, Chinese
+15096-INFO-2022-09-29 18:16:10,022-Entered Value of Online Order is 1
+15096-INFO-2022-09-29 18:16:10,022-Entered Value of Book Table is 1
+15096-INFO-2022-09-29 18:16:10,022-Values Heading For Encoding
+15096-INFO-2022-09-29 18:16:10,025-Model Recieved The values
+15096-INFO-2022-09-29 18:16:10,196-Model Predicted the Rating Value :4.100833333333342
+15096-INFO-2022-09-29 18:16:51,661-Entered Value of Restaurant Name is Spice 9
+15096-INFO-2022-09-29 18:16:51,661-Entered Value of Votes is 8
+15096-INFO-2022-09-29 18:16:51,661-Entered Value of Restaurant Type is Delivery
+15096-INFO-2022-09-29 18:16:51,661-Entered Value of Location is Banashankari
+15096-INFO-2022-09-29 18:16:51,661-Entered Value of Cost is 300
+15096-INFO-2022-09-29 18:16:51,661-Entered Value of Cuisines is  Biryani, North Indian, Chinese, Fast Food
+15096-INFO-2022-09-29 18:16:51,661-Entered Value of Online Order is 0
+15096-INFO-2022-09-29 18:16:51,661-Entered Value of Book Table is 0
+15096-INFO-2022-09-29 18:16:51,661-Values Heading For Encoding
+15096-INFO-2022-09-29 18:16:51,664-Model Recieved The values
+15096-INFO-2022-09-29 18:16:51,819-Model Predicted the Rating Value :3.3933333333333286
+15096-INFO-2022-09-29 18:18:00,981-Entered Value of Restaurant Name is KFC
+15096-INFO-2022-09-29 18:18:00,981-Entered Value of Votes is 505
+15096-INFO-2022-09-29 18:18:00,981-Entered Value of Restaurant Type is Delivery
+15096-INFO-2022-09-29 18:18:00,982-Entered Value of Location is Banashankari
+15096-INFO-2022-09-29 18:18:00,982-Entered Value of Cost is 450
+15096-INFO-2022-09-29 18:18:00,982-Entered Value of Cuisines is  Burger, Fast Food
+15096-INFO-2022-09-29 18:18:00,982-Entered Value of Online Order is 1
+15096-INFO-2022-09-29 18:18:00,982-Entered Value of Book Table is 0
+15096-INFO-2022-09-29 18:18:00,982-Values Heading For Encoding
+15096-INFO-2022-09-29 18:18:00,985-Model Recieved The values
+15096-INFO-2022-09-29 18:18:01,149-Model Predicted the Rating Value :3.794166666666674
+15096-INFO-2022-09-29 18:20:29,582-Entered Value of Restaurant Name is Namaste Kitchen
+15096-INFO-2022-09-29 18:20:29,582-Entered Value of Votes is 172
+15096-INFO-2022-09-29 18:20:29,582-Entered Value of Restaurant Type is Delivery
+15096-INFO-2022-09-29 18:20:29,582-Entered Value of Location is Koramangala 7th Block
+15096-INFO-2022-09-29 18:20:29,582-Entered Value of Cost is 550
+15096-INFO-2022-09-29 18:20:29,582-Entered Value of Cuisines is  North Indian, South Indian, Chinese
+15096-INFO-2022-09-29 18:20:29,582-Entered Value of Online Order is 1
+15096-INFO-2022-09-29 18:20:29,582-Entered Value of Book Table is 0
+15096-INFO-2022-09-29 18:20:29,582-Values Heading For Encoding
+15096-INFO-2022-09-29 18:20:29,585-Model Recieved The values
+15096-INFO-2022-09-29 18:20:29,761-Model Predicted the Rating Value :3.80333333333334
+15096-INFO-2022-09-29 18:22:30,133-Entered Value of Restaurant Name is Fetchpod Cafe
+15096-INFO-2022-09-29 18:22:30,134-Entered Value of Votes is 12
+15096-INFO-2022-09-29 18:22:30,134-Entered Value of Restaurant Type is Dine-out
+15096-INFO-2022-09-29 18:22:30,134-Entered Value of Location is Koramangala 4th Block
+15096-INFO-2022-09-29 18:22:30,134-Entered Value of Cost is 500
+15096-INFO-2022-09-29 18:22:30,134-Entered Value of Cuisines is  Cafe, North Indian, Chinese, Continental
+15096-INFO-2022-09-29 18:22:30,134-Entered Value of Online Order is 0
+15096-INFO-2022-09-29 18:22:30,134-Entered Value of Book Table is 0
+15096-INFO-2022-09-29 18:22:30,134-Values Heading For Encoding
+15096-INFO-2022-09-29 18:22:30,137-Model Recieved The values
+15096-INFO-2022-09-29 18:22:30,325-Model Predicted the Rating Value :2.9099999999999966
+15096-INFO-2022-09-29 18:22:30,340-Entered Value of Restaurant Name is Fetchpod Cafe
+15096-INFO-2022-09-29 18:22:30,340-Entered Value of Votes is 12
+15096-INFO-2022-09-29 18:22:30,340-Entered Value of Restaurant Type is Dine-out
+15096-INFO-2022-09-29 18:22:30,340-Entered Value of Location is Koramangala 4th Block
+15096-INFO-2022-09-29 18:22:30,340-Entered Value of Cost is 500
+15096-INFO-2022-09-29 18:22:30,341-Entered Value of Cuisines is  Cafe, North Indian, Chinese, Continental
+15096-INFO-2022-09-29 18:22:30,341-Entered Value of Online Order is 0
+15096-INFO-2022-09-29 18:22:30,341-Entered Value of Book Table is 0
+15096-INFO-2022-09-29 18:22:30,341-Values Heading For Encoding
+15096-INFO-2022-09-29 18:22:30,347-Model Recieved The values
+15096-INFO-2022-09-29 18:22:30,521-Model Predicted the Rating Value :2.9099999999999966
+15096-INFO-2022-09-29 18:23:52,387-Program Ended

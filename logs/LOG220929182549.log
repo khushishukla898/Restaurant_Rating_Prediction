@@ -1,0 +1,13 @@
+13756-INFO-2022-09-29 18:25:49,798-Program has been started
+13756-INFO-2022-09-29 18:26:46,671-Entered Value of Restaurant Name is 
+13756-INFO-2022-09-29 18:26:46,672-Entered Value of Votes is 45
+13756-INFO-2022-09-29 18:26:46,672-Entered Value of Restaurant Type is Delivery
+13756-INFO-2022-09-29 18:26:46,672-Entered Value of Location is Bannerghatta Road
+13756-INFO-2022-09-29 18:26:46,672-Entered Value of Cost is 45
+13756-INFO-2022-09-29 18:26:46,672-Entered Value of Cuisines is  Desserts, Beverages
+13756-INFO-2022-09-29 18:26:46,672-Entered Value of Online Order is 0
+13756-INFO-2022-09-29 18:26:46,672-Entered Value of Book Table is 0
+13756-INFO-2022-09-29 18:26:46,672-Values Heading For Encoding
+13756-INFO-2022-09-29 18:26:47,903-Model Recieved The values
+13756-INFO-2022-09-29 18:26:48,401-Model Predicted the Rating Value :3.7366666666666677
+13756-INFO-2022-09-29 18:26:56,151-Program Ended
